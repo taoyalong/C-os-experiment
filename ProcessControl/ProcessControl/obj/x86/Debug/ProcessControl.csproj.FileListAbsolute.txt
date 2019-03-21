@@ -1,0 +1,4 @@
+c:\users\亚龙\documents\visual studio 2010\Projects\ProcessControl\ProcessControl\bin\Debug\ProcessControl.exe
+c:\users\亚龙\documents\visual studio 2010\Projects\ProcessControl\ProcessControl\bin\Debug\ProcessControl.pdb
+c:\users\亚龙\documents\visual studio 2010\Projects\ProcessControl\ProcessControl\obj\x86\Debug\ProcessControl.exe
+c:\users\亚龙\documents\visual studio 2010\Projects\ProcessControl\ProcessControl\obj\x86\Debug\ProcessControl.pdb
